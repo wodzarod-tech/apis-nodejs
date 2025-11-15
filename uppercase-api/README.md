@@ -13,7 +13,7 @@ npm -v
 
 4. Create server file: uppercase.js
 
-5. Start server: node server.js
+5. Start server: node uppercase.js
 
 6. Test server:
 
